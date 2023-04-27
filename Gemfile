@@ -22,6 +22,7 @@ gem 'devise'
 gem 'devise-bootstrap-views', '~> 1.0'
 
 gem 'iex-ruby-client'
+gem "font-awesome-rails"
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
